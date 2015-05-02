@@ -1,0 +1,39 @@
+{
+  "coord": {
+    "lon": -0.13,
+    "lat": 51.51
+  },
+  "sys": {
+    "message": 0.0079,
+    "country": "GB",
+    "sunrise": 1430454691,
+    "sunset": 1430508218
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "Sky is Clear",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 280.88,
+    "temp_min": 280.88,
+    "temp_max": 280.88,
+    "pressure": 1017.02,
+    "sea_level": 1024.88,
+    "grnd_level": 1017.02,
+    "humidity": 57
+  },
+  "wind": {
+    "speed": 2.78,
+    "deg": 89.5043
+  },
+  "clouds": {"all": 0},
+  "dt": 1430517506,
+  "id": 2643743,
+  "name": "London",
+  "cod": 200
+}
